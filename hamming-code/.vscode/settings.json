@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "functional": "cpp",
+        "math.h": "c",
+        "string": "c",
+        "filesystem": "c",
+        "iosfwd": "c",
+        "regex": "c",
+        "sstream": "c"
+    }
+}
