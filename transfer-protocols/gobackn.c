@@ -42,6 +42,7 @@ int main() {
         {"sit", 3},
         {"amet", 4}
     };
+
     struct Queue* window = createQueue(5);
     int seq_num = 0;
     int action = 0;
