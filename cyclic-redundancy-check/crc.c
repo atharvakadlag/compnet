@@ -49,12 +49,12 @@ int main() {
     printf("\n");
 
     // currupt message randomly
-    if(rand()%2){
-        code[rand()%len] = rand()%2; // currupt a random bit
-        printf("Bit corrupted...\n");
-	} else {
+    // if(rand()%2){
+    //     code[rand()%len] = rand()%2; // currupt a random bit
+    //     printf("Bit corrupted...\n");
+	// } else {
         printf("No bit corrupted...\n");
-	}
+	// }
 
     // check if the code is correct
     i = 0;
